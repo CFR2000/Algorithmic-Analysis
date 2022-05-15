@@ -1,0 +1,100 @@
+C:\Users\Colmr\.jdks\openjdk-15\bin\java.exe "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.2\lib\idea_rt.jar=55414:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.2\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\Colmr\Desktop\algoNew\algorithms20290-2021-repository-CFR2000\out\production\algorithms20290-2021-repository-CFR2000;C:\Users\Colmr\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\Colmr\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\Colmr\.m2\repository\org\junit\jupiter\junit-jupiter\5.4.2\junit-jupiter-5.4.2.jar;C:\Users\Colmr\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.4.2\junit-jupiter-api-5.4.2.jar;C:\Users\Colmr\.m2\repository\org\apiguardian\apiguardian-api\1.0.0\apiguardian-api-1.0.0.jar;C:\Users\Colmr\.m2\repository\org\opentest4j\opentest4j\1.1.1\opentest4j-1.1.1.jar;C:\Users\Colmr\.m2\repository\org\junit\platform\junit-platform-commons\1.4.2\junit-platform-commons-1.4.2.jar;C:\Users\Colmr\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.4.2\junit-jupiter-params-5.4.2.jar;C:\Users\Colmr\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.4.2\junit-jupiter-engine-5.4.2.jar;C:\Users\Colmr\.m2\repository\org\junit\platform\junit-platform-engine\1.4.2\junit-platform-engine-1.4.2.jar com.company.wk7_SubStrings.wk7Main
+
+-------------Timing performance of Brute Force Pattern Search
+
+***************************** Brute Force Pattern Search testing Time *****************************************
+
+Line 5 :
+Found pattern at index 2
+
+Test 0 - 10 inputs
+elapsed time = 0.026
+Elapsed time (nano seconds) = 4.43665E7
+************************** Next Test *****************************************
+
+Line 2 :
+Found pattern at index 2
+
+Test 1 - 100 inputs
+elapsed time = 0.05
+Elapsed time (nano seconds) = 4.89696E7
+************************** Next Test *****************************************
+
+Line 788 :
+Found pattern at index 2
+
+Test 2 - 1000 inputs
+elapsed time = 0.051
+Elapsed time (nano seconds) = 5.06629E7
+************************** Next Test *****************************************
+
+Line 58 :
+Found pattern at index 2
+
+Test 3 - 10000 inputs
+elapsed time = 0.052
+Elapsed time (nano seconds) = 5.11702E7
+************************** Next Test *****************************************
+
+Line 91 :
+Found pattern at index 3
+
+Test 4 - 58110 inputs
+elapsed time = 0.052
+Elapsed time (nano seconds) = 5.14548E7
+************************** Next Test *****************************************
+
+
+
+
+******************************** Next AlgoTest ********************************
+
+
+
+
+-------------Timing performance of Knuth-Morris-Pratt
+
+***************************** Knuth-Morris-Pratt testing Time *****************************************
+
+Line 5 :
+Found pattern at index 2
+
+Test 0 - 10 inputs
+elapsed time = 0.007
+Elapsed time (nano seconds) = 8254900.0
+************************** Next Test *****************************************
+
+Line 2 :
+Found pattern at index 2
+
+Test 1 - 100 inputs
+elapsed time = 0.008
+Elapsed time (nano seconds) = 8872100.0
+************************** Next Test *****************************************
+
+Line 788 :
+Found pattern at index 2
+
+Test 2 - 1000 inputs
+elapsed time = 0.009
+Elapsed time (nano seconds) = 9246300.0
+************************** Next Test *****************************************
+
+Line 58 :
+Found pattern at index 2
+
+Test 3 - 10000 inputs
+elapsed time = 0.009
+Elapsed time (nano seconds) = 9463400.0
+************************** Next Test *****************************************
+
+Line 91 :
+Found pattern at index 3
+
+Test 4 - 58110 inputs
+elapsed time = 0.009
+Elapsed time (nano seconds) = 9664700.0
+************************** Next Test *****************************************
+
+
+Process finished with exit code 0

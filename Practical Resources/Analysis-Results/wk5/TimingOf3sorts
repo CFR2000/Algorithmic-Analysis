@@ -1,0 +1,111 @@
+
+Q1.
+-------------Comparing MergeSort to Insertion Sort for increasing input sizes
+
+
+***************************** Merge Sort testing Time *****************************************
+
+Test 0 - 10 inputs
+ elapsed time = 0.001
+Elapsed time (nano seconds) = 4.15918E7
+
+************************** Next Test *****************************************
+
+Test 1 - 100 inputs
+ elapsed time = 0.051
+Elapsed time (nano seconds) = 4.95441E7
+
+************************** Next Test *****************************************
+
+Test 2 - 1000 inputs
+ elapsed time = 0.052
+Elapsed time (nano seconds) = 5.13897E7
+
+************************** Next Test *****************************************
+
+Test 3 - 10000 inputs
+ elapsed time = 0.058
+Elapsed time (nano seconds) = 5.74484E7
+
+************************** Next Test *****************************************
+
+Test 4 - 100000 inputs
+ elapsed time = 0.121
+Elapsed time (nano seconds) = 1.200405E8
+
+************************** Next Test *****************************************
+
+******************************* Insertion sort testing time ********************************************
+
+
+Test 0 - 10 inputs
+ elapsed time = 0.0
+Elapsed time (nano seconds) = 1253700.0
+
+************************** Next Test *****************************************
+
+
+Test 1 - 100 inputs
+ elapsed time = 0.001
+Elapsed time (nano seconds) = 1957700.0
+
+************************** Next Test *****************************************
+
+
+Test 2 - 1000 inputs
+ elapsed time = 0.009
+Elapsed time (nano seconds) = 9705100.0
+
+************************** Next Test *****************************************
+
+
+Test 3 - 10000 inputs
+ elapsed time = 0.036
+Elapsed time (nano seconds) = 3.64375E7
+
+************************** Next Test *****************************************
+
+
+Test 4 - 100000 inputs
+ elapsed time = 1.475
+Elapsed time (nano seconds) = 1.4760891E9
+
+************************** Next Test *****************************************
+
+
+Q3.
+************************** Timing Enhanced Merge Sort *****************************
+
+Input size is < 10, so calling insertion sort on array!
+Test 0 - 10 inputs
+ elapsed time = 0.0
+Elapsed time (nano seconds) = 326300.0
+
+************************** Next Test *****************************************
+
+Test 1 - 100 inputs
+ elapsed time = 0.001
+Elapsed time (nano seconds) = 655500.0
+
+************************** Next Test *****************************************
+
+Test 2 - 1000 inputs
+ elapsed time = 0.002
+Elapsed time (nano seconds) = 1954800.0
+
+************************** Next Test *****************************************
+
+Test 3 - 10000 inputs
+ elapsed time = 0.005
+Elapsed time (nano seconds) = 4644900.0
+
+************************** Next Test *****************************************
+
+Test 4 - 100000 inputs
+ elapsed time = 0.031
+Elapsed time (nano seconds) = 3.02729E7
+
+************************** Next Test *****************************************
+
+
+Process finished with exit code 0

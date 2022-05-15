@@ -1,0 +1,136 @@
+*********************** Testing Recursive Fibonacci Sequence *****************************
+
+Test 1 elapsed time = 0.0
+Result - 1
+
+Test 2 elapsed time = 0.002
+Result - 1
+
+Test 3 elapsed time = 0.002
+Result - 2
+
+Test 4 elapsed time = 0.002
+Result - 3
+
+Test 5 elapsed time = 0.002
+Result - 5
+
+Test 6 elapsed time = 0.003
+Result - 8
+
+Test 7 elapsed time = 0.003
+Result - 13
+
+Test 8 elapsed time = 0.003
+Result - 21
+
+Test 9 elapsed time = 0.003
+Result - 34
+
+Test 10 elapsed time = 0.003
+Result - 55
+
+Test 11 elapsed time = 0.003
+Result - 89
+
+Test 12 elapsed time = 0.003
+Result - 144
+
+Test 13 elapsed time = 0.003
+Result - 233
+
+Test 14 elapsed time = 0.004
+Result - 377
+
+Test 15 elapsed time = 0.004
+Result - 610
+
+Test 16 elapsed time = 0.004
+Result - 987
+
+Test 17 elapsed time = 0.005
+Result - 1597
+
+Test 18 elapsed time = 0.007
+Result - 2584
+
+Test 19 elapsed time = 0.008
+Result - 4181
+
+Test 20 elapsed time = 0.008
+Result - 6765
+
+Test 21 elapsed time = 0.011
+Result - 10946
+
+Test 22 elapsed time = 0.017
+Result - 17711
+
+Test 23 elapsed time = 0.018
+Result - 28657
+
+Test 24 elapsed time = 0.019
+Result - 46368
+
+Test 25 elapsed time = 0.021
+Result - 75025
+
+Test 26 elapsed time = 0.025
+Result - 121393
+
+Test 27 elapsed time = 0.029
+Result - 196418
+
+Test 28 elapsed time = 0.035
+Result - 317811
+
+Test 29 elapsed time = 0.052
+Result - 514229
+
+Test 30 elapsed time = 0.075
+Result - 832040
+
+Test 31 elapsed time = 0.125
+Result - 1346269
+
+Test 32 elapsed time = 0.166
+Result - 2178309
+
+Test 33 elapsed time = 0.237
+Result - 3524578
+
+Test 34 elapsed time = 0.359
+Result - 5702887
+
+Test 35 elapsed time = 0.544
+Result - 9227465
+
+Test 36 elapsed time = 0.838
+Result - 14930352
+
+Test 37 elapsed time = 1.274
+Result - 24157817
+
+Test 38 elapsed time = 2.034
+Result - 39088169
+
+Test 39 elapsed time = 3.236
+Result - 63245986
+
+Test 40 elapsed time = 4.835
+Result - 102334155
+
+Test 41 elapsed time = 7.399
+Result - 165580141
+
+Test 42 elapsed time = 11.63
+Result - 267914296
+
+Test 43 elapsed time = 18.57
+Result - 433494437
+
+Test 44 elapsed time = 30.046
+Result - 701408733
+
+Test 45 elapsed time = 47.889
+Result - 1134903170

@@ -1,0 +1,6 @@
+4 elapsed time = 0.001
+70 elapsed time = 0.079
+528 elapsed time = 0.249
+4039 elapsed time = 0.842
+32074 elapsed time = 2.944
+255181 elapsed time = 10.772.
